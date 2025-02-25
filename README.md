@@ -1,4 +1,4 @@
-# QA Automation Engineer – Test Assignment #1 (V. Kazarin)
+# QA Automation Engineer – Test Assignment #2 (V. Kazarin)
 
 ## Project Structure
 
